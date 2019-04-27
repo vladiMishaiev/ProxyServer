@@ -1,0 +1,18 @@
+{
+  "tunnels": [
+    {
+      "ID": 1,
+      "IP": "127.0.0.1",
+      "port": 8000,
+      "tunnelType": "HTTP_TUNNEL",
+      "maxConnectionsBackLog": 1
+    },
+    {
+      "ID": 2,
+      "IP": "127.0.0.1",
+      "port": 8030,
+      "tunnelType": "FTP_TUNNEL",
+      "maxConnectionsBackLog": 1
+    }
+  ]
+}

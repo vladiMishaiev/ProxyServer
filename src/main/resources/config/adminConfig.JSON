@@ -1,0 +1,6 @@
+{
+  "mngIP": "127.0.0.1",
+  "mngPort": 8080,
+  "eventLogServerIP": "127.0.0.1",
+  "eventLogServerPort": 8081
+}
